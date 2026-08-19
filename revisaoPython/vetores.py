@@ -39,4 +39,3 @@ numeros = [33, 11, 22, 56, 58, 100, 33]
 # print(maxn)
 # minn = min(numeros)
 # print(minn)
-
