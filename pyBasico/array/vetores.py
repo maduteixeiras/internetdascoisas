@@ -2,6 +2,7 @@ nomes = ["Julia", "Maria", "Carla", "Enzo"]
 numeros = [33, 11, 22, 56, 58, 100, 33]
 
 # print(nomes[2])
+
 # append - enserir novo elemento no final da lista
 # nomes.append("Lucas")
 
@@ -26,7 +27,7 @@ numeros = [33, 11, 22, 56, 58, 100, 33]
 # quantidade = len(numeros)
 # print(f"A quantidade de números é {quantidade}")
 
-# count - informa a quantidade de um valor específico
+# count - informa a quantidade de um valor específico dentro do vetor
 # quantidade = numeros.count(33)
 # print(quantidade)
 
