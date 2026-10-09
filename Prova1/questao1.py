@@ -69,7 +69,6 @@ calcularRes = ctk.CTkButton(janela,
                             text_color='white',
                             command=calcularRes)
 calcularRes.pack()
-
 resultado = ctk.CTkLabel(janela,
                         text='',
                         font= ('arial', 30))
